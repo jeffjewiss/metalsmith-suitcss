@@ -1,0 +1,36 @@
+{
+  "name": "metalsmith-suitcss",
+  "version": "0.1.0",
+  "description": "Metalsmith plugin to preprocess CSS files using SUITCSS.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "files": [
+    "lib/index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffjewiss/metalsmith-suitcss"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin",
+    "css",
+    "suitcss"
+  ],
+  "author": {
+    "name": "Jeff Jewiss",
+    "email": "jeffjewiss@gmail.com",
+    "url": "http://jeffjewiss.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffjewiss/metalsmith-suitcss/issues"
+  },
+  "homepage": "https://github.com/jeffjewiss/metalsmith-suitcss",
+  "dependencies": {
+    "minimatch": "^2.0.1",
+    "suitcss-preprocessor": "^0.4.0"
+  }
+}
