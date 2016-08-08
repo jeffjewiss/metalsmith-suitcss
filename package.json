@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/jeffjewiss/metalsmith-suitcss",
   "dependencies": {
-    "minimatch": "^3.0.0",
+    "minimatch": "^3.0.3",
     "suitcss-preprocessor": "^2.0.0"
   }
 }
